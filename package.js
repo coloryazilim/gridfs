@@ -1,6 +1,6 @@
 Package.describe({
-  name: 'cfs:gridfs',
-  version: '0.0.34',
+  name: 'color:gridfs',
+  version: '0.0.1',
   summary: 'GridFS storage adapter for CollectionFS',
   git: 'https://github.com/CollectionFS/Meteor-cfs-gridfs.git'
 });
